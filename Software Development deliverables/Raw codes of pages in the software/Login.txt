@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Login</title>
+        <link rel="stylesheet" href="style.css">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        rel="stylesheet">
+    </head>
+    <body>
+        <div class="login-box">
+            <h1>Login</h1>
+            <form method="POST" action="#">
+                <label>First Name</label><br>
+                <input type="text" placeholder="Enter your first name"><br>
+                <label>Last Name</label><br>
+                <input type="text" placeholder="Enter your last name"><br>
+                <label>Email</label><br>
+                <input type="Email" placeholder="Insert email address"><br>
+                <label>Password</label><br>
+                <input type="password" placeholder="Enter your password"><br>
+                <input type="button" value="Submit">
+            </form>
+        </div>
+        <p class="para-2">Not have an account? <a href="sign up.html">Sign Up Here

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Other Emergency Services</title>
+    <link rel="stylesheet" href="images.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
+  </head>
+  <body>
+    <header>
+        <a href="index.html" class="brand">ESSENTIAL SERVICES</a>
+        <div class="menu">
+          <div class="btn">
+            <i class="fas fa-times close-btn"></i>
+          </div>
+          <a href="index.html">Home</a>
+          
+        </div>
+        <div class="btn">
+          <i class="fas fa-bars menu-btn"></i>
+        </div>
+      </header>
+    <!--image card layout start-->
+    <div class="container">
+      <!--image row start-->
+      <div class="row">
+        <!--image card start-->
+        <div class="image">
+            <img src="6.jpg" alt="">
+            <div class="details">
+              <h2><span>Covid-19</span></h2>
+              <p>For the latest updates on covid-19, click here</p>
+              <div class="more">
+                <a href="https://www.google.com/maps/d/viewer?mid=10Dg861xJNy18dTvB6dHk9fp8dRQ&ie=UTF8&hl=en&msa=0&ll=-1.319846599999983%2C36.8378502&spn=34.668997%2C78.662109&z=18" class="read-more">GO HERE</a>
+                <div class="icon-links">
+                  <a href="#"><i class="fas fa-viruses"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--image card end--> 
+        <!--image card start-->
+        <div class="image">
+          <img src="1.jpg" alt="">
+          <div class="details">
+            <h2><span>Law enforcement</span></h2>
+            <p>Police typically are responsible for maintaining public order and safety, 
+                enforcing the law, and preventing, detecting, and investigating criminal activities.Get police services here
+                 </p>
+            <div class="more">
+              <a href="https://www.google.com/maps/d/viewer?mid=10Dg861xJNy18dTvB6dHk9fp8dRQ&ie=UTF8&hl=en&msa=0&ll=-1.2794228999999946%2C36.8182285&spn=34.668997%2C78.662109&z=18" >GO HERE</a>
+              <div class="icon-links">
+                <a href="#"><i class="fas fa-user-secret"></i></a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--image card end-->
+        <!--image card start-->
+        <div class="image">
+          <img src="2.jpg" alt="">
+          <div class="details">
+            <h2><span>Food services and accommodations</span></h2>
+            <p>Stuck somewhere? Here are some of the places where you can get accomodation fast</p>
+            <div class="more">
+              <a href="https://www.google.com/maps/d/viewer?mid=10Dg861xJNy18dTvB6dHk9fp8dRQ&ie=UTF8&hl=en&msa=0&ll=-1.2817275973913023%2C36.8185513&spn=34.668997%2C78.662109&z=15">GO HERE</a>
+              <div class="icon-links">
+                <a href="#"><i class="fas fa-utensils"></i></a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--image card end-->
+        <!--image card start-->
+        <div class="image">
+          <img src="3.jpg" alt="">
+          <div class="details">
+            <h2><span>Environmental services
+            </span></h2>
+            <p>Contact NEMA incase of sewerage outburst, 
+                harsh climatic conditions or any other environmental emergency for immediate assistance.</p>
+            <div class="more">
+              <a href="https://www.google.com/maps/d/viewer?mid=10Dg861xJNy18dTvB6dHk9fp8dRQ&ie=UTF8&hl=en&msa=0&ll=-1.2807644999999916%2C36.8244836&spn=34.668997%2C78.662109&z=18" class="read-more">GO HERE</a>
+              <div class="icon-links">
+                <a href="https://www.bing.com/images/search?view=detailV2&ccid=3UJahhCF&id=07848FF645C014BA926F69EB6DE2863EC1DAA923&thid=OIP.3UJahhCFtiAPRwxfsud5UwHaHa&mediaurl=https%3a%2f%2fimage.flaticon.com%2ficons%2fpng%2f512%2f116%2f116723.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.dd425a861085b6200f470c5fb2e77953%3frik%3dI6nawT6G4m3raQ%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=icon+links+html-trees&simid=608029891666195395&FORM=IRPRST&ck=7E7FFA28AADF7F8F2903A1EC0A049453&selectedIndex=31&ajaxhist=0&ajaxserp=0"><i class="environmental"</i></a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--image card end-->
+      </div>
+      <!--image row end-->
+      <!--image row start-->
+      <div class="row">
+        <!--image card start-->
+        <div class="image">
+          <img src="4.jpg" alt="">
+          <div class="details">
+            <h2><span>Public works</span></h2>
+            <p>Public works are a broad category of infrastructure projects, 
+                financed and constructed by the government, for recreational, 
+                employment, and health and safety uses in the greater community.</p>
+            <div class="more">
+              <a href="https://www.google.com/maps/d/viewer?mid=10Dg861xJNy18dTvB6dHk9fp8dRQ&ie=UTF8&hl=en&msa=0&ll=-1.3017669476045195%2C36.83352474999999&spn=34.668997%2C78.662109&z=14" class="read-more">GO HERE</a>
+              <div class="icon-links">
+                <a href="" class="read-more"></a>
+                
+               
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--image card end-->
+        <!--image card start-->
+        <div class="image">
+          <img src="5.jpg" alt="">
+          <div class="details">
+            <h2><span>Air ambulance</span></h2>
+            <p> Air ambulance providers are professionals
+                 who provide medical evacuation and emergency services through air transportation.</p>
+            <div class="more">
+              <a href="https://www.google.com/maps/d/viewer?mid=10Dg861xJNy18dTvB6dHk9fp8dRQ&ie=UTF8&hl=en&msa=0&ll=-1.3182053999999999%2C36.815058199999996&spn=34.668997%2C78.662109&z=18" class="read-more">GO HERE</a>
+              <div class="icon-links">
+                <a href="#"></a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--image card end-->
+        <!--image card start-->
+        <div class="image">
+          <img src="7.jpg" alt="">
+          <div class="details">
+            <h2><span>Mental Health</span></h2>
+            <p>If you need help for a mental health 
+                crisis or emergency, you should get immediate expert advice and assessment.
+                It's important to know that support is available, 
+                even if services seem busy at the moment because of coronavirus.</p>
+            <div class="more">
+              <a href="https://www.google.com/maps/d/viewer?mid=10Dg861xJNy18dTvB6dHk9fp8dRQ&ie=UTF8&hl=en&msa=0&ll=-1.2819821871096113%2C36.80540287499999&spn=34.668997%2C78.662109&z=13" class="read-more">GO HERE</a>
+              <div class="icon-links">
+                <a href=i class="fas fa-brain"></i></a>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--image card end-->
+      </div>
+      <!--image row end-->
+    </div>
+    <!--image card layout end-->
+
+  </body>
+</html>
+      
